@@ -1,0 +1,4 @@
+// Store Giphy API Data
+// Do not commit this file to repo, contains sensitive data.
+
+GIPHY_API_KEY = 229ac3e932794695b695e71a9076f4e5

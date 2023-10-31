@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F44CF548-7E27-4209-BFC8-13891990D783"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3F5947B-60D7-4950-8E77-25AA3B30A204"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GiphySearch/Extensions/UIImage+Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "gifImageWithURL(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3F5947B-60D7-4950-8E77-25AA3B30A204 - 692c92854e7756fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;__C.UIImage&gt; in static __C.UIImage.gifImageWithURL(Swift.String) async -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "GiphySearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toracross/Desktop/Interview%20Stuff/GiphySearch/GiphySearch/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "A3F5947B-60D7-4950-8E77-25AA3B30A204 - f631fd7572cae26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;__C.UIImage&gt; in static __C.UIImage.gifImageWithURL(Swift.String) async -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "GiphySearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toracross/Desktop/Interview%20Stuff/GiphySearch/GiphySearch/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A3F5947B-60D7-4950-8E77-25AA3B30A204 - 605add7054be2a00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;__C.UIImage&gt; in static __C.UIImage.gifImageWithURL(Swift.String) async -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "GiphySearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toracross/Desktop/Interview%20Stuff/GiphySearch/GiphySearch/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A3F5947B-60D7-4950-8E77-25AA3B30A204 - 2d3894d34db78ca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 @Sendable () async throws -&gt; Foundation.Data in closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;__C.UIImage&gt; in static __C.UIImage.gifImageWithURL(Swift.String) async -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "GiphySearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toracross/Desktop/Interview%20Stuff/GiphySearch/GiphySearch/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A3F5947B-60D7-4950-8E77-25AA3B30A204 - 4a91e240b9cd92e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for implicit closure #1 @Sendable () async throws -&gt; Foundation.Data in closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;__C.UIImage&gt; in static __C.UIImage.gifImageWithURL(Swift.String) async -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "GiphySearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toracross/Desktop/Interview%20Stuff/GiphySearch/GiphySearch/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
